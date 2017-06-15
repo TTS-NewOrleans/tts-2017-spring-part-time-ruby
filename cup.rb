@@ -1,7 +1,7 @@
 class Cup
 
   def initialize
-    puts "I'm alive! *SPARKLE*"
+    puts "I'm alive!  *SPARKLE*"
 
     # drink amount is in percent
     @drink_amount = 0
